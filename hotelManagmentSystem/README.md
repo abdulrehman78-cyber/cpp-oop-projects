@@ -13,3 +13,11 @@ A modular C++ application managing hotel operations using advanced OOP principle
 - C++14/17
 - STL Containers (std::map)
 - Header-only Modular Architecture
+
+## 🔧 How to Run
+
+1. **Clone the entire collection**:
+   ```bash
+   git clone https://github.com/abdulrehman78-cyber/cpp-oop-projects.git
+   g++ -std=c++14 main.cpp -o App
+   ./App
