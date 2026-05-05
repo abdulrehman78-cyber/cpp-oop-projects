@@ -1,0 +1,13 @@
+# Ignore compiled executables
+HotelApp
+App
+*.exe
+*.out
+
+# Ignore data/persistence files
+*.txt
+!README.md
+
+# Ignore IDE junk
+.vscode/
+.idea/
