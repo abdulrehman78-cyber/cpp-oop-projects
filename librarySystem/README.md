@@ -31,8 +31,8 @@ A professional C++ console application for managing library resources, members, 
 git clone https://github.com/abdulrehman78-cyber/cpp-oop-projects.git
 
 # 2. Enter the project folder
-cd hotelManagmentSystem
+cd librarySystem
 
 # 3. Compile and Run
-g++ main.cpp -o HotelApp
-./HotelApp
+g++ main.cpp -o libraryApp
+./libraryApp
